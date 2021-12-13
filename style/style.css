@@ -1,0 +1,26 @@
+
+.logo {
+    text-shadow: 1px 1px 2px #000000;
+}
+
+.item_db {
+    font-size: 20px;
+    cursor: pointer;
+
+}
+
+.item_table {
+    font-size: 18px;
+    padding-left: 15px;
+    cursor: pointer;
+}
+
+.item {
+    font-size: 15px;
+    padding-left: 50px;
+    cursor: pointer;
+}
+
+#designerTable {
+    width: 100%;
+}
